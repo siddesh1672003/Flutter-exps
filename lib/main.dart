@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'profile_page.dart'; // Import the profile_page.dart file
 
 void main() {
   runApp(MyApp());
@@ -26,11 +27,10 @@ class MyHomePage extends StatelessWidget {
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           // Add onPressed functionality for the FloatingActionButton
-          // e.g., navigate to another screen or perform an action
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(
-              content: Text('FloatingActionButton Pressed'),
-            ),
+          // e.g., navigate to the profile page
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => ProfilePage()),
           );
         },
         child: Icon(Icons.add),
