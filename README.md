@@ -3,7 +3,7 @@
 # experiment 3 - (https://github.com/siddesh1672003/Flutter-exps/blob/master/lib/profile_page.dart)
 # experiment 4 - (https://github.com/siddesh1672003/Flutter-exps/blob/master/lib/exp4.dart)
 
-# Assignment 1 - ([https://github.com/siddesh1672003/Flutter-exps/blob/master/lib/exp4.dart](https://github.com/siddesh1672003/Flutter-exps/tree/master/Helloapp))
+# Assignment 1 - (https://github.com/siddesh1672003/Flutter-exps/tree/master/Helloapp)
 A new Flutter project.
 
 ## Getting Started
